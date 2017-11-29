@@ -3,7 +3,7 @@
 ## WG1: 大數據平台服務 開源專案   
 
 #### 推動執行目標
-以Docker容器和Kubernetes容器管理達到無縫升級和佈建全自動支援至少兩種大數據平台服務，並提供API擴充機制分享開源軟體(https://github.com/ITRI-ICL-DivX/oss-bdpaas)(over 10K line of code)內建單元和整合測試功能，直覺式GUI介面完整規格檔案文件，教育訓練和使用說明
+以Docker容器和Kubernetes容器管理達到無縫升級和佈建全自動支援至少兩種大數據平台服務，並提供API擴充機制分享開源軟體(https://github.com/ITRI-ICL-DivX/oss-bdpaas) (over 10K line of code)內建單元和整合測試功能，直覺式GUI介面完整規格檔案文件，教育訓練和使用說明
 
 #### 團隊工作分配
 
